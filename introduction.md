@@ -1,4 +1,4 @@
-# Information
+# Introduction
 
 * 조예현
  *  동의대학교
